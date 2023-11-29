@@ -173,3 +173,4 @@ def lalal(message):
 
 bot.polling(none_stop=True)
 
+text = 'sdgasgd'
